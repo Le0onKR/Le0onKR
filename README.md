@@ -18,5 +18,8 @@
 
 # 📦 CraftBukkit Plugin
 [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=Le0onKR&repo=MoneyPlugin)](https://github.com/Le0onKR/MoneyPlugin)
+
+# 📙 Java Coding
+
 # 📘 Python Coding
 [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=Le0onKR&repo=PyTetrisGame)](https://github.com/Le0onKR/PyTetrisGame)
