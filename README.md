@@ -13,14 +13,12 @@
 [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=Le0onKR&repo=MiningPlugin)](https://github.com/Le0onKR/MiningPlugin)
 
 # 📦 PMMP Virions
-[![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=Le0onKR&repo=SimpleForm)](https://github.com/Le0onKR/SimpleForm)
 
 # 📦 PowerNukkit Plugins
  [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=Le0onKR&repo=RepairPlugin)](https://github.com/Le0onKR/RepairPlugin)
  [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=Le0onKR&repo=LNJoinQuit)](https://github.com/Le0onKR/LNJoinQuit)
 
 # 📦 CraftBukkit Plugin
-[![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=Le0onKR&repo=MoneyPlugin)](https://github.com/Le0onKR/MoneyPlugin)
 
 # 📙 Java Coding
 
