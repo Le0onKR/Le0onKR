@@ -11,6 +11,7 @@
 [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=Le0onKR&repo=HotTime)](https://github.com/Le0onKR/HotTime)
 [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=Le0onKR&repo=LifeJobs)](https://github.com/Le0onKR/LifeJobs)
 [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=Le0onKR&repo=MiningPlugin)](https://github.com/Le0onKR/MiningPlugin)
+[![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=Le0onKR&repo=CheckPlus)](https://github.com/Le0onKR/CheckPlus)
 
 # 📦 PMMP Virions
 
