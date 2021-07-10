@@ -5,7 +5,7 @@
 
 # Github Stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Le0onKR&show_icons=true&theme=dracula)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=Le0onKR&langs_count=4&count_private=true&theme=nord)
+![-](https://github-readme-stats.vercel.app/api/top-langs?username=Le0onKR&langs_count=4&count_private=true&theme=nord)
 
 # 📦 PMMP Plugins
 [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=Le0onKR&repo=HotTime)](https://github.com/Le0onKR/HotTime)
