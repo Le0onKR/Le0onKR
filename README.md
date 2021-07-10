@@ -13,15 +13,9 @@
 [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=Le0onKR&repo=MiningPlugin)](https://github.com/Le0onKR/MiningPlugin)
 [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=Le0onKR&repo=CheckPlus)](https://github.com/Le0onKR/CheckPlus)
 
-# 📦 PMMP Virions
-
 # 📦 PowerNukkit Plugins
  [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=Le0onKR&repo=RepairPlugin)](https://github.com/Le0onKR/RepairPlugin)
  [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=Le0onKR&repo=LNJoinQuit)](https://github.com/Le0onKR/LNJoinQuit)
-
-# 📦 CraftBukkit Plugin
-
-# 📙 Java Coding
-
+ 
 # 📘 Python Coding
 [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=Le0onKR&repo=PyTetrisGame)](https://github.com/Le0onKR/PyTetrisGame)
